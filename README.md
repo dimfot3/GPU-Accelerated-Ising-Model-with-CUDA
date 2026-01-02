@@ -1,6 +1,6 @@
 # GPU-Accelerated Ising Model with CUDA
 ## Description
-This is the CUDA project for Parallel and Distributed subject of Electectical and Computer Engineering AUTH. The goal of 
+This is the CUDA project for Parallel and Distributed subject of Electectical and Computer Engineering AUTH (2022). The goal of 
 this project is to implement parallelism in GPU. To do so we try to calculate the kth iteration of Ising Model, a model which is used
 to find the state of magnetic dipoles after k discrete times. There are 4 implementation of Ising model in this project. 
 
